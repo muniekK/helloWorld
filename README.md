@@ -72,3 +72,8 @@ git commit -m "edit file1"
 
 >8. push changes to github
 git push
+
+
+***
+- [x] task1
+- [ ] task2
